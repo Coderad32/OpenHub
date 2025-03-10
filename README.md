@@ -1,17 +1,10 @@
 ## Welcome Readers
-Thanks for taking the time to read this short project 
-description and to edit any exsisting DATA.
+
+OpenHub is a comedy club build by comedy developers
+building a platform for stuff to be talked about
+while providing a customer experience everytime
 
 
 ## Project Summary
 
-
-## p2p Network office
-
-
-## p2p client server
-
-
-## Fork url
-
-
+To build / rent a space for comedy in town 
